@@ -29,8 +29,8 @@
     </el-main>
     <div style="height: fit-content;padding-bottom: 10px;">
       <div style="width: fit-content;margin-left: auto;margin-right: auto;">
-        <el-link type="info" href="https://netart.cn/" target="_blank">Whoami</el-link>&nbsp;
-        <el-link type="info" href="https://github.com/ljxi/NetworkPanel" target="_blank">源码</el-link>
+        <el-link type="info" href="https://t0m.cn/" target="_blank">Ac主页</el-link>&nbsp;
+        <el-link type="info" href="https://github.com/dix8/NetworkPanel" target="_blank">源码</el-link>
       </div>
     </div>
   </el-container>
@@ -47,11 +47,11 @@ import { toClipboard } from '@soerenmartius/vue3-clipboard'
 const isVisible = ref(true)
 const showDash = ref(false)
 let GoToHomePage = () => {
-  //window.open("https://netart.cn/")
-  toClipboard('463481772')
+  //window.open("https://t0m.cn/")
+  toClipboard('777877058')
   ElMessage.info({
     dangerouslyUseHTMLString: true,
-    message: '<center>已经复制QQ群号：<br><strong>463481772</strong></center>',
+    message: '<center>已经复制QQ群号：<br><strong>777877058</strong></center>',
   })
 }
 document.addEventListener("visibilitychange", function () {
