@@ -29,7 +29,7 @@
     </el-main>
     <div style="height: fit-content;padding-bottom: 10px;">
       <div style="width: fit-content;margin-left: auto;margin-right: auto;">
-        <el-link type="info" href="https://t0m.cn/" target="_blank">Acの主页</el-link>&nbsp;
+        <el-link type="info" href="https://t0m.cn/" target="_blank">Ac主页</el-link>&nbsp;
         <el-link type="info" href="https://github.com/dix8/NetworkPanel" target="_blank">源码</el-link>
       </div>
     </div>
